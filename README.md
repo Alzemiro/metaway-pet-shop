@@ -4,7 +4,7 @@ API desenvolvida para gerenciar o atendimento em uma loja de animais (Pet Shop).
 
 ## Tecnologias Utilizadas
 
-- Java 11
+- Java 17
 - Spring Boot
 - JPA/Hibernate
 - Postgresql
@@ -19,7 +19,7 @@ API desenvolvida para gerenciar o atendimento em uma loja de animais (Pet Shop).
 
 ### Pré-requisitos:
 
-- Java 11
+- Java 17
 - Maven
 - Postgresql
 
